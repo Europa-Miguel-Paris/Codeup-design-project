@@ -1,5 +1,38 @@
+body{
+    background-color: #e6e6e6;
+    font-family:'Abel';
+
+}
+.white-strip{
+    background-color:white;
+    margin: 5em solid white;
+}
 
 #main-container  {
     background-image: url("img/logo.jpg");
-    background-color: #e6e6e6;
+}
+#main-title{
+    font-size: 55px;
+
+}
+h1, h2, h3, h4, h5{
+    font-family: 'Anton';
+}
+
+#r-orange{
+    background-color: #E6563B;
+    color: white;
+}
+#gold{
+    background-color: #EB9D3A;
+    color: white;
+}
+
+#green{
+    background-color: #7CB06C;
+    color:white;
+}
+#blue{
+    background-color: #00ABA9;
+    color: white;
 }
