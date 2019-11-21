@@ -3,7 +3,7 @@ body{
     font-family:'Abel';
 
 }
-.white-strip{
+#strip{
     background-color:white;
     margin: 5em solid white;
 }
@@ -35,4 +35,17 @@ h1, h2, h3, h4, h5{
 #blue{
     background-color: #00ABA9;
     color: white;
+}
+.btn-circle {
+    font-family: 'Anton';
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.card{
+    border: 5px solid black;
+}
+.embed-responsive .card-img-top{
+    object-fit: cover;
 }
