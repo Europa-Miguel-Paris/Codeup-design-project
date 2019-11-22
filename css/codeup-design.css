@@ -41,15 +41,15 @@ h1, h2, h3, h4, h5{
 }
 
 .badge-2{
-    background-color: #E6563B;
+    background-color: #EB9D3A;
 }
 
 .badge-3{
-    background-color: #E6563B;
+    background-color: #7CB06C;
 }
 
 .badge-4{
-    background-color: #E6563B;
+    background-color: #00ABA9;
 }
 
 
@@ -89,7 +89,13 @@ h1, h2, h3, h4, h5{
 
 .img-top {
     border: 5px solid #f0f0f0;
+}
 
 #side-news{
     margin: 4em;
 }
+.heavy-font{
+    font-weight: bold;
+}
+
+
