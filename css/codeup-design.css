@@ -36,6 +36,22 @@ h1, h2, h3, h4, h5{
 #blue{
     background-color: #00ABA9;
 }
+.badge-1{
+    background-color: #E6563B;
+}
+
+.badge-2{
+    background-color: #E6563B;
+}
+
+.badge-3{
+    background-color: #E6563B;
+}
+
+.badge-4{
+    background-color: #E6563B;
+}
+
 
 .btn-circle {
     font-family: 'Anton';
@@ -73,7 +89,6 @@ h1, h2, h3, h4, h5{
 
 .img-top {
     border: 5px solid #f0f0f0;
-}g
 
 #side-news{
     margin: 4em;
