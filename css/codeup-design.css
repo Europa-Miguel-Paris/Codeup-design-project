@@ -91,11 +91,15 @@ h1, h2, h3, h4, h5{
     border: 5px solid #f0f0f0;
 }
 
+
 #side-news{
     margin: 4em;
 }
 .heavy-font{
     font-weight: bold;
+}
+h4.text1,.text2,.text3{
+    font-size: ;
 }
 
 
